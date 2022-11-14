@@ -1,0 +1,26 @@
+body{
+    background-image: url("../assets/nnneon.svg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vh;
+    background-position-y: 0;
+    color: white;
+    height: 100vh;
+}
+.main{
+    background-color: #ffffff;
+    opacity: 0.8;
+}
+.btn{
+    color: #000;
+    margin: 0px auto;
+    background-color: #aae4d6;
+    border-color: #aae4d6;
+    transition: 0.6s;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: #ff5b57;
+    border-color: #ff5b57;
+}
