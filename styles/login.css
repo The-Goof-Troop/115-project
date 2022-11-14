@@ -21,3 +21,15 @@ form .btn:hover{
     background-color: #ff5b57;
     border-color: #ff5b57;
 }
+#username{
+    background-image: url("../assets/person.svg");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    text-indent: 20px;
+}
+#password{
+    background-image: url("../assets/shield-lock.svg");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    text-indent: 20px;
+}
