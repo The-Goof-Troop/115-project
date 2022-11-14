@@ -1,0 +1,46 @@
+body{
+    background-image: url("../assets/nnneon.svg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vh;
+    background-position-y: 0;
+    color: white;
+    height: 100vh;
+}
+form{
+    background-color: white;
+    opacity: .8;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+    text-decoration: none;
+}
+#btn{
+    background-color: #aae4d6;
+    border-color: #aae4d6;
+    transition: 0.6s;
+}
+
+#btn:hover{
+    background-color: #ff5b57;
+    border-color: #ff5b57;
+}
+
+.container{
+    text-align: center;
+}
+
+form .btn{
+    background-color: #aae4d6;
+    border-color: #aae4d6;
+    transition: 0.6s;
+}
+form .btn:hover{
+    background-color: #ff5b57;
+    border-color: #ff5b57;
+}
